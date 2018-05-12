@@ -1,4 +1,8 @@
 _repo: A-Book-of-the-West-Volume-I-Devon-Being-an-introduction-to-Devon-and-Cornwall_48439
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48439-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48439#A-Book-of-the-West-Volume-I-Devon-Being-an-introduction-to-Devon-and-Cornwall
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
